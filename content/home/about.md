@@ -6,35 +6,11 @@ date = "2016-04-20T00:00:00"
 
 # Order that this section will appear in.
 weight = 5
-
-# List your academic interests.
-[interests]
-  interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
-  ]
-
-# List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
-
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
  
 +++
 
-# Biography
+# Follow the carbon
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+The Socio-Spatial Carbon Collaborative, or (SC)<sup>2</sup>, aims to deepen understanding of social and ecological inequalities in the built environment and share this knowledge with the public and policymakers. The project is currently developing a nationwide, neighborhood-scale, household carbon footprint database of unprecedented detail. (SC)<sup>2</sup> is led by Daniel Aldana Cohen and Kevin Ummel and is based at the University of Pennsylvania’s Population Studies Center.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Existing scholarship shows that population density and income influence carbon footprints. But we know comparatively little about how household demographics, inequality, housing policy, proximity to public infrastructure, and other socio-environmental features shape lifestyles and their ecological impact. Since these phenomena are also key determinants of health and well-being, "following the carbon" at high resolution allows us to link traditionally separate research agendas: how to foster low-carbon lifestyles, and how to live well and equitably in a warming world.
