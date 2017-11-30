@@ -1,8 +1,12 @@
+<<<<<<< HEAD
 public/
 .idea/
+=======
+>>>>>>> 0a1d6b73f608832cc4c561d6c009a72fc47d2f57
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
 blogdown
 public
+LICENSE.md
