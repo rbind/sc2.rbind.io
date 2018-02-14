@@ -14,4 +14,6 @@ The map below simulates household-level use of personal vehicles, including annu
 
 The prototype's data inputs include the [American Community Survey](https://www.census.gov/programs-surveys/acs/), a restricted-use version of the [National Household Travel Survey](http://nhts.ornl.gov/), and the [EPA's Smart Location Database](https://www.epa.gov/smartgrowth/smart-location-mapping#SLD), among others. The underlying machine learning model uses a range of demographic and socio-spatial variables (e.g. the ["walkabilty" of a household's surroundings](/img/neighborhood_walkability.png)) to predict personal vehicle usage patterns.
 
-<iframe src="/leaflet/Vehicle_emissions_prototype.html" width="100%" height="700"></iframe>
+<iframe seamless src="/leaflet/Vehicle_emissions_prototype.html" width="100%" height="700"></iframe>
+
+<iframe seamless src="/img/Vehicle_emissions_prototype.html" width="100%" height="700"></iframe>

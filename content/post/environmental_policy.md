@@ -16,4 +16,4 @@ The prototype demonstrates our ability to simulate categorical/discrete survey r
 
 The environmental policy index is based on binary support/oppose reponses to four survey questions in Harvard University's [Cooperative Congressional Election Study](https://cces.gov.harvard.edu/). The underlying machine learning model uses a range of demographic and socio-spatial variables (e.g. an individual's [proximity to a Whole Foods grocery](/img/wholefoods_proximity.png)) to predict support levels.
 
-<iframe src="/leaflet/Environmental_policy_prototype.html" width="100%" height="700"></iframe>
+<iframe seamless src="/leaflet/Environmental_policy_prototype.html" width="100%" height="700"></iframe>
